@@ -1,0 +1,12 @@
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/bin/Release/net7.0/ABCCorp.Application.deps.json
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/bin/Release/net7.0/ABCCorp.Application.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/bin/Release/net7.0/ABCCorp.Application.pdb
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.csproj.AssemblyReference.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.AssemblyInfoInputs.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.AssemblyInfo.cs
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.csproj.CoreCompileInputs.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/refint/ABCCorp.Application.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ABCCorp.Application.pdb
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/Release/net7.0/ref/ABCCorp.Application.dll

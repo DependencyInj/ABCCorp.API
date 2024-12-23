@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Infrastructure/ABCCorp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/ABCCorp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/ABCCorp.Application.csproj",
+        "projectName": "ABCCorp.Application",
+        "projectPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/ABCCorp.Application.csproj",
+        "packagesPath": "/Users/harikrishnans/.nuget/packages/",
+        "outputPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harikrishnans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/ABCCorp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/ABCCorp.Domain.csproj",
+        "projectName": "ABCCorp.Domain",
+        "projectPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/ABCCorp.Domain.csproj",
+        "packagesPath": "/Users/harikrishnans/.nuget/packages/",
+        "outputPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harikrishnans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Infrastructure/ABCCorp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Infrastructure/ABCCorp.Infrastructure.csproj",
+        "projectName": "ABCCorp.Infrastructure",
+        "projectPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Infrastructure/ABCCorp.Infrastructure.csproj",
+        "packagesPath": "/Users/harikrishnans/.nuget/packages/",
+        "outputPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harikrishnans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/ABCCorp.Application.csproj": {
+                "projectPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Application/ABCCorp.Application.csproj"
+              },
+              "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/ABCCorp.Domain.csproj": {
+                "projectPath": "/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/ABCCorp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

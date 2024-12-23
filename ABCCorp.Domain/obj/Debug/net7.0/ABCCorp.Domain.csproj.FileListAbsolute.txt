@@ -1,0 +1,12 @@
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/bin/Debug/net7.0/ABCCorp.Domain.deps.json
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/bin/Debug/net7.0/ABCCorp.Domain.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/bin/Debug/net7.0/ABCCorp.Domain.pdb
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.csproj.AssemblyReference.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.AssemblyInfoInputs.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.AssemblyInfo.cs
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.csproj.CoreCompileInputs.cache
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/refint/ABCCorp.Domain.dll
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ABCCorp.Domain.pdb
+/Users/harikrishnans/Projects/ABCCorpWebAPI/ABCCorp.Domain/obj/Debug/net7.0/ref/ABCCorp.Domain.dll
